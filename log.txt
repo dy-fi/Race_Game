@@ -1,0 +1,6 @@
+The player chose ^ as their ship.
+Started!
+The player lost a life to a +.
+Player lost!
+Objects deleted.
+
